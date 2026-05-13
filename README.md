@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Courtney Devin
+# Hi there 👩🏼‍💻 I'm Courtney Devin
 
 I research observability and interaction dynamics in interactive AI systems.
 
