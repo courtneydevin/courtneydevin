@@ -1,16 +1,58 @@
-### Hi there 👋
+# Hi there 👋 I'm Courtney Devin
 
-<!--
-**courtneydevin/courtneydevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I research observability and interaction dynamics in interactive AI systems.
 
-Here are some ideas to get you started:
+Working across:
+- interface observability
+- AI evaluation
+- partial observability
+- trust infrastructure
+- human-AI interaction
+- behavioral testing
+- identity and policy systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research
+
+AI systems increasingly function as environments users act inside.
+
+I focus on how interface-visible system behavior shapes belief formation, action selection, remediation, trust calibration, and outcome distributions — especially when relevant backend behavior is latent, stateful, or only partially exposed.
+
+---
+
+## Domains
+
+🧠 **Interactive AI Systems**
+- stateful systems
+- tool-mediated systems
+- multi-step interaction environments
+- human-AI coordination
+
+🔍 **Observability + Evaluation**
+- black-box evaluation
+- interface-visible trust signals
+- behavioral testing
+- uncertainty and inference
+- distributional analysis
+
+🔐 **Trust Infrastructure**
+- identity architecture
+- cryptographic enforcement
+- platform trust boundaries
+- logging, retention, and policy systems
+
+---
+
+## Repositories
+
+I use this space for experiments and research assets related to:
+- AI evaluation
+- interface observability
+- interaction-risk analysis
+- partially observable systems
+- trust and identity infrastructure
+
+---
+ 
+💼 LinkedIn: https://linkedin.com/in/courtneydevin
